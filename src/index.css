@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  /* background-color: white; */
+}
+
+body{
+    background: #262626;
+}
+#taskList::-webkit-scrollbar{
+
+  display: none;
+
+}
+#AllTask::-webkit-scrollbar{
+
+  display: none;
+
+}
